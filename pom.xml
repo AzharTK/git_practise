@@ -5,4 +5,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>MavenProject</name>
 
+<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-web</artifactId>
+    <version>4.0.0-M2</version>
+</dependency>
+
 </project>
